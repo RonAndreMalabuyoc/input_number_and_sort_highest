@@ -1,0 +1,5 @@
+num1 = int(input("Enter the first number here: "))
+num2 = int(input("Enter the second number here: "))
+num3 = int(input("Enter the third number here: "))
+num4 = int(input("Enter the forth number here: "))
+num5 = int(input("Enter the fifth number here: "))
